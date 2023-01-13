@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **more on Python and Home Automation**
 
+Currently setting up a home server with my different services required!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
